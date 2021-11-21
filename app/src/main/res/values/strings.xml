@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleQuiz</string>
+    <string name="successCnt">0問正解</string>
+    <string name="questionText">番号順にタッチせよ</string>
+</resources>
